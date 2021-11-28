@@ -12,6 +12,6 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
-LiveURL: 
+LiveURL: https://acoleman37.github.io/weather-application/
 
 <img width="1680" alt="Screen Shot 2021-11-28 at 10 29 05 AM" src="https://user-images.githubusercontent.com/91629574/143781153-49f3e49f-6ec5-4430-8871-7066817758b0.png">
